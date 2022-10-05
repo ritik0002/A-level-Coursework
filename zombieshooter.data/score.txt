@@ -1,0 +1,18 @@
+180,Joel
+370,Dilkush
+80,Sachin
+580,Yash
+20,test
+10,test2
+40,test3
+0,ok
+90,L
+100.aq
+390,
+50,ritik desai
+420,ritik desai
+10, suld 
+0, suld     
+320, suld     
+430, suld     
+20,4
